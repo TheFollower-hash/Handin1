@@ -10,6 +10,7 @@ import (
 "strings"
 "sync"
 )
+// vi slemme piger vi til slemme drenge.
 
 var lock sync.RWMutex
 var connections []net.Conn
